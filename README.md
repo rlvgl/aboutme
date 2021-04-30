@@ -1,6 +1,5 @@
 - 👋  Hi, I’m @sohumagrawal
-- 👀  I’m interested in blockchain, data structures, and algorithms
-- 🌱  I’m currently learning graph search and Dijkstra's algorithim
+- 👀  I’m interested in full stack web development
 - 📫  How to reach me: agrawalsohum@gmail.com, (669) 214 - 5274
 
 <!---
